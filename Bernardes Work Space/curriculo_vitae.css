@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(174, 255, 98);
+}
+
+.bio{
+    font-style: italic;
+    text-align: center;
+}
+
+hr{
+    color: antiquewhite;
+    border: 1px solid black;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.container img{
+    margin-right: 400px;
+}
